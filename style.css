@@ -1,0 +1,78 @@
+
+body{
+    margin: 25px;
+}
+
+.perfil{
+    background-image: url(assets/img-ravena.png);
+    width: 120px;
+    height: 120px;
+    float: inline-start;
+    background-size: 120px;
+    border-radius: 90px;
+    background-repeat: no-repeat;
+    margin: 20px 10px;
+}
+
+.nome{
+    height: 120px;
+    align-content: center;
+    text-align: center;
+    font-size: 21px;
+}
+
+.sobre-mim h2{
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+
+
+.xp{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.ano, .empresa{
+    display: block;
+}
+
+
+.experiencia{
+    display: inline-block;
+    width: 25%;
+    vertical-align: top;
+    font-size: 18px;
+}
+.cargo{
+    display: inline-block;
+    width: 70%;
+    vertical-align: top;
+}
+
+.cargo h4{
+    margin: 0;
+    font-size: 20px;
+}
+
+.linguagem{
+    font-size: 20px;
+    display: inline;
+    margin-right: 10px;
+}
+
+
+.competencia{
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.linguagem div{
+    text-align: center;
+    display: inline-block;
+    vertical-align: right;
+}
+
+
+
